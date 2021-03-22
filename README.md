@@ -27,14 +27,6 @@ Python vs Javascript for web automation?
 
 ### Prerequisites
 
-### Installing MongoDB 
-
-mongo
-```
-
-### Deployment
-
-```
 
 ## Contributing
 
